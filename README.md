@@ -1,0 +1,2 @@
+# Libsolo
+Test lib
