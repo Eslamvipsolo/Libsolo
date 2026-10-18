@@ -1,0 +1,14 @@
+{
+  "keys": [
+    {
+      "key": "ELRA3Y-VIP-2026",
+      "exp": "2026-12-31",
+      "active": true
+    },
+    {
+      "key": "ANOTHER-KEY-123",
+      "exp": "2025-01-01",
+      "active": false
+    }
+  ]
+}
